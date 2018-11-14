@@ -222,7 +222,7 @@ h6 {
 	width:625px;
 	float:right;
 	padding:15px;
-	border-left:#d4d093 solid 1px;
+	border-left:purple solid 1px;
 }
 
 #page_content .right_section .top_content{
@@ -263,7 +263,7 @@ a.btn:hover{
 }
 
 .border_left{
-	border-left:#6e7678 dotted 1px;
+	border-left:purple dotted 1px;
 	padding-left:20px;
 }
 
